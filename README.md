@@ -26,15 +26,15 @@ To launch the project on Visual Studio move every file of the "Builds" folder in
 Our engine has a lot of render features in order to facilitate the creation of amazing environment for the game created in the engine. The main feature is the Physically Based Rendering that allow our engine to have a realistic look. The second important render feature is the Deferred Rendering, that allow to have lot of lights in ours scenes. We have also others effect like Shadow Mapping, SSAO or Normal Mapping.
 
 <p align="left">
-<img src= "ScreenShots/ScreenShot2.png" width="500" />
-<img src= "ScreenShots/ScreenShot3.png" width="500" />
+<img src= "ScreenShots/Screenshot2.png"/>
+<img src= "ScreenShots/Screenshot3.png"/>
 </p>
 
 <p>
 <h3><b> - Physics :</b></h3>
  Our engine has realistic physics available for the user. For this feature, we use the PhysX library from Nvidia that compute all calculs of the physics. Our engine can be link to Nvidia Physics Debugger software in order to help users when they work on physics problems and need to debug. 
  <p align="center">
-<img src= "ScreenShots/ScreenShot4.png"/>
+<img src= "ScreenShots/Screenshot4.png"/>
 </p>
  <p>
 <div class="Part"> 
@@ -52,7 +52,7 @@ Our engine has a lot of render features in order to facilitate the creation of a
 <h3><b> - UI :</b></h3>
 The Lich Engine have basics UI display, we can show Text on screen and Image. All UI elements are limited to the screen to be positioned. For the text element, user can use multiples fonts and change theirs size. The image extension handle are .png and .jpg. 
 <p align="center">
-<img src= "ScreenShots/Screenshot5.png" width="500"/>
+<img src= "ScreenShots/Screenshot5.png"/>
 </p>
  <p>
  <h2> Libraries Uses : </h2>
