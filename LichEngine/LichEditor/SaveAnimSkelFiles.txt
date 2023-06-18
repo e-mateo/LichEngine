@@ -1,0 +1,22 @@
+.\Resources\Models\Characters\Character.dae
+.\Resources\Models\Characters\Walking.dae
+.\Resources\Models\Characters\Zombie Scream.fbx
+.\Resources\Models\CorridorOne\source\Attached_Test_Floor.fbx
+.\Resources\Models\CorridorTwo\Sci-fi corridor.fbx
+.\Resources\Models\CorridorTwo\DoorA.fbx
+.\Resources\Models\CorridorTwo\Wall3.fbx
+.\Resources\Models\MedicalConsole\model.dae
+.\Resources\Models\Characters\MonsterWalking.fbx
+.\Resources\Models\Characters\ZombieRunning.fbx
+.\Resources\Models\Characters\ZombieWalking.fbx
+.\Resources\Models\Characters\newZombieRunning.fbx
+.\Resources\Models\Characters\NewZombieScream.fbx
+.\Resources\Models\Characters\Character.dae
+.\Resources\Models\Characters\Walking.dae
+.\Resources\Models\Characters\Zombie Scream.fbx
+.\Resources\Models\CorridorOne\source\Attached_Test_Floor.fbx
+.\Resources\Models\CorridorTwo\Sci-fi corridor.fbx
+.\Resources\Models\CorridorTwo\DoorA.fbx
+.\Resources\Models\CorridorTwo\Wall3.fbx
+.\Resources\Models\MedicalConsole\model.dae
+.\Resources\Models\sci-fi-table\BigTable.fbx
