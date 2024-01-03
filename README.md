@@ -55,6 +55,16 @@ The Lich Engine has a basic UI display, we can show Text on screen and Image. Al
 <img src= "ScreenShots/Screenshot5.png"/>
 </p>
  <p>
+
+<h2> Tasks I've worked on : </h2>
+
+• Render pipeline (Physically Based Rendering, Deferred Rendering, Shadow Mapping, Normal/Parallax Mapping, HDR, and every other graphics feature) <br>
+• Animation System: Animator, Skeletons, and Animations. With our Animator component, you can choose which animation you want to play and its speed and you can make transitions between animations. <br>
+• Resources loading including Models, Textures, Skeletons, Animations, Fonts... <br>
+• UI System which can display texts with different fonts and images on the screen thanks to our Text and Image components <br>
+• Material System which is useful to tweak some values such as the albedo, the roughness or metalness, or even if the object generates shadows or not. You can also edit the albedo, normal, height, metalness, roughness, and ambient occlusion maps. Depending on the model, you'll have different slots to put materials in our Mesh component. <br>
+
+• Project Architecture
  <h2> Libraries Used : </h2>
 For this project, we use multiple libraries to handle functionalities. Let's list them :
  <ul>
@@ -67,4 +77,5 @@ For this project, we use multiple libraries to handle functionalities. Let's lis
     <li> <b>Refureku</b> - Library that allows the reflection on our engine
     <li> <b>ImGui</b> - Editor UI interface library
 </ul>
+
 
