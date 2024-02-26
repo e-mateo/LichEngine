@@ -14,11 +14,12 @@ The Lich Engine is a game engine project coupled with an engine editor. This pro
     <li> Bryan Bachelet
 </ul>
 </b>
+The project has been made in 4 months (March-June 2023) <br>
 Portfolio Link: https://merbistigp.editorx.io/portfolio-mateo/blank-3-3-1-1-1-1-1 <br>
 </div>
 <hr>
 <p align="center">
-<img src= "ScreenShots/ScreenShot1.png"/>
+<img src= "ScreenShots/Room1.png"/>
 </p>
 <h2> Engine Features : </h2>
 
@@ -26,8 +27,8 @@ Portfolio Link: https://merbistigp.editorx.io/portfolio-mateo/blank-3-3-1-1-1-1-
 Our engine has a lot of render features in order to facilitate the creation of an amazing environment for the game created in the engine. The main feature is the Physically Based Rendering that allows our engine to have a realistic look. The second important render feature is Deferred Rendering, which allows us to have a lot of lights in our scenes. We have also other effects like Shadow Mapping, SSAO, or Normal Mapping.
 
 <p align="left">
-<img src= "ScreenShots/Screenshot2.png"/>
-<img src= "ScreenShots/Screenshot3.png"/>
+<img src= "ScreenShots/Room2.png"/>
+<img src= "ScreenShots/Room3.png"/>
 </p>
 
 <p>
@@ -52,7 +53,7 @@ Our engine has realistic physics available for the user. For this feature, we us
 <h3><b> - UI :</b></h3>
 The Lich Engine has a basic UI display, we can show Text on screen and Image. All UI elements are limited to the screen to be positioned. For the text element, users can use multiple fonts and change their size. The image extension handles are .png and .jpg.
 <p align="center">
-<img src= "ScreenShots/Screenshot5.png"/>
+<img src= "ScreenShots/Menu.png"/>
 </p>
  <p>
 
